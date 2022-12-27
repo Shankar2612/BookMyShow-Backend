@@ -17,9 +17,11 @@ operation was successfully completed.
 
 ### End points
 1. `Post` [url](https://bookmyshow-api.onrender.com)/api/booking 
+
 This is a post request endpoint which is udes to store the booking details of the user.
 
 2. `Get` [url](https://bookmyshow-api.onrender.com)/api/booking
+
 This get request endpoint which is used to get the last booking deatils of user.
     
 
@@ -30,4 +32,4 @@ This get request endpoint which is used to get the last booking deatils of user.
 
 #### Contributions are always welcome!
 
-Thankyou.
+
